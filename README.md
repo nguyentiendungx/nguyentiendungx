@@ -3,8 +3,7 @@
 - Tên thật của mình là: Nguyễn Tiến Dũng
 - Mình hiện đang học tập và sinh sống tại Bắc Giang
 - Mình đang thất nghiệp
-Liên hệ:
-
+-  liên hệ:
 <ul dir="auto">
 <li>Facebook: <a href="[[https://fb.me/NguyenTienDung.Dev]" rel="nofollow">Nguyễn Tiến Dũng</a></li>
 <li>Youtube Channel: <a href="https://www.youtube.com/channel/" rel="nofollow">Nguyễn Tiến Dũng</a></li>
